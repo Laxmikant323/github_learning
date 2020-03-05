@@ -1,0 +1,26 @@
+# Created by Octave 3.2.4, Fri Aug 16 13:54:55 2019 India Standard Time <unknown@unknown>
+# name: A
+# type: matrix
+# rows: 3
+# columns: 2
+ 1 2
+ 3 4
+ 4 5
+# name: a
+# type: scalar
+3.141592653589793
+# name: ans
+# type: string
+# elements: 1
+# length: 26
+C:\Users\laxmikant\Desktop
+# name: b
+# type: sq_string
+# elements: 1
+# length: 2
+hi
+# name: sz
+# type: matrix
+# rows: 1
+# columns: 2
+ 3 2

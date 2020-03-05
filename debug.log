@@ -1,0 +1,9 @@
+[1214/075602.606:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1214/075624.964:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1216/093225.890:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1216/093318.995:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1216/190151.551:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0119/101357.172:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0119/101459.920:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0119/101518.442:ERROR:crash_report_database_win.cc(428)] unexpected header
+[0119/101518.498:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
